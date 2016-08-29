@@ -46,10 +46,6 @@ The JavaScript 'engine' for all of our tutorials, puzzle types and online tools.
 * Tools like [Artist](https://studio.code.org/projects/artist), [Play Lab](https://studio.code.org/projects/playlab) and [App Lab](https://code.org/educate/applab)
 * Other core puzzle types: Maze, Farmer, Bee, Bounce, Calc, Eval
 
-### [code-studio](./code-studio)
-
-JavaScript code specific to our **Code Studio** learning platform.  This also becomes a static package served by dashboard, and is tightly coupled to dashboard code.
-
 ### Documentation
 
 * [SETUP](./SETUP.md): Instructions to get everything up and running.
@@ -60,7 +56,6 @@ JavaScript code specific to our **Code Studio** learning platform.  This also be
 * In addition, several sections of the repository have their own documentation:
   * [apps/README](./apps/README.md)
   * [blockly-core/README](./blockly-core/README.md)
-  * [code-studio/README](./code-studio/README.md)
 
 ### Everything else
 
