@@ -594,7 +594,7 @@ if (BUILD_STYLEGUIDE) {
           )
         },
         {
-          name: 'current leve puzzle in header',
+          name: 'current level puzzle in header',
           story: () => (
             <ProgressDot
               courseOverviewPage={false}
